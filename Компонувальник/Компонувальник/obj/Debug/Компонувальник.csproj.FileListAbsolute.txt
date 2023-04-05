@@ -1,0 +1,33 @@
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe.config
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\bin\Debug\Компонувальник.pdb
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.AssemblyReference.cache
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.SuggestedBindingRedirects.cache
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Form1.resources
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Properties.Resources.resources
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.GenerateResource.cache
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.CoreCompileInputs.cache
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.exe
+E:\прог\4 курс\КПЗ\Компонувальник\Компонувальник\obj\Debug\Компонувальник.pdb
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe.config
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\bin\Debug\Компонувальник.pdb
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Form1.resources
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Properties.Resources.resources
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.exe
+C:\Users\Professional\Desktop\Компонувальник\Компонувальник\obj\Debug\Компонувальник.pdb
+D:\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe.config
+D:\Компонувальник\Компонувальник\bin\Debug\Компонувальник.exe
+D:\Компонувальник\Компонувальник\bin\Debug\Компонувальник.pdb
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.AssemblyReference.cache
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.SuggestedBindingRedirects.cache
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Form1.resources
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.Properties.Resources.resources
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.GenerateResource.cache
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.csproj.CoreCompileInputs.cache
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.exe
+D:\Компонувальник\Компонувальник\obj\Debug\Компонувальник.pdb
